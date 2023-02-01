@@ -22,4 +22,3 @@ If the user does not score more than 10 on their first attempt, they should be g
 If the user fails to score more than 10 even after their second attempt, display the message "Bad luck" and do not give them another chance. [10 marks]
 
 If the user can generate a coupon, display a congratulatory image. [10 marks]
-![image](https://user-images.githubusercontent.com/119429335/216080265-8d8493ba-204e-4813-88cd-ceb4cef92497.png)
