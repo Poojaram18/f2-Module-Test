@@ -1,0 +1,68 @@
+    
+ 
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+ 
+/* Hidden class */
+.hidden{
+    display:none;
+}
+ 
+/* image styling */
+.img {
+  width:250px;
+  height: 250px;
+  margin: 3px;
+  padding: 10px;
+}
+ 
+.flex-container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* background-color: bisque; */
+    background-image: url("https://assets.reedpopcdn.com/k552.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/k552.jpg");
+    padding: 30px;
+  
+}
+ 
+
+/* Form group and input elements */
+.form-Group {
+  margin: 1.5rem;
+  font-size: 1.2rem;
+}
+
+#sumbitBtn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/* Display info */
+#displayInfo {
+  margin: 2rem;
+}
+
+#info {
+  font-size: 1rem;
+}
+
+/* dice Image container*/
+#diceWthScore {
+  margin: 1.5rem;
+}
+.displayformInfo{
+  text-align: center;
+
+}
